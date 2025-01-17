@@ -1,13 +1,22 @@
 # Sokoban Oyunu
 
-Bu proje, klasik Sokoban bulmaca oyununun Python implementasyonudur.
+Bu proje, klasik Sokoban bulmaca oyununun Python ve Pygame ile geliştirilmiş bir versiyonudur.
 
-## Özellikler
+## 🎮 Oyun Özellikleri
 
-- Klasik Sokoban oynanışı
-- Seviye sistemi
-- Kaydetme ve yükleme özellikleri
+- Çoklu seviye sistemi
+- Özel iksir mekanizması (kutuları çekme özelliği)
+- Görsel arayüz
+- Animasyonlu karakter hareketleri
+- Menü sistemi
 
-## Kurulum
+## 🛠️ Gereksinimler
 
-1. Repoyu klonlayın:
+- Python 3.x
+- Pygame
+
+## 📥 Kurulum
+
+1. Projeyi klonlayın:
+bash
+git clone https://github.com/3ayram/Sokoban.git
